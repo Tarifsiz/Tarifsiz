@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ender</h1>
 <h3 align="center">A passionate .NET Developer from Izmir, Turkey</h3>
 
-- 📖 I’m currently learning **Python and Vue.js**
+- 📖 I’m currently learning **Vue.js**
 
 - 👯 My area of interest's are **Web APIs, cloud, containerization, clean architecture**
 
