@@ -2,7 +2,7 @@
 <h3 align="center">A passionate .NET Developer from Izmir, Turkey</h3>
 
 - 🔭 I’m currently working on **PaMiS (Production Monitoring & Analysis Solution)**
-- 📖 I’m currently learning **Vue.js**
+- 📖 I’m currently learning **Node.js** and **Vue.js**
 - 👯 My area of interest's are **Web APIs, cloud, containerization, clean architecture**
 
 <h3 align="left">Connect with me:</h3>
