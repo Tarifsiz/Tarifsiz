@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ender</h1>
-<h3 align="center">A passionate .NET Developer from Izmir, Turkey</h3>
+<h3 align="center">A passionate .NET Developer from Izmir, Turkiye</h3>
 
-- 🔭 I’m currently working on the banking solutions of **Argentex Group PLC**
-- 📖 I’m currently studying for **Microsoft Azure's AZ-204 certification**
-- 👯 My area of interest's are **Web APIs, cloud, containerization, clean architecture**
+- 🔭 I’m actively seeking a new position that will allow me to bring value through my experience in Fullstack C# Development, while continuing to grow professionally.
+- 📖 I’ve parked **Microsoft Azure's AZ-204 certification** and I'm currently studying for **Kubernetes Certified Application Developer (CKAD)**
+- 👯 My areas of interest are **Web APIs, cloud, containerization, system design, and the Go programming language.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
