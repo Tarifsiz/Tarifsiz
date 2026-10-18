@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ender</h1>
 <h3 align="center">A passionate .NET Developer from Izmir, Turkiye</h3>
 
-- 🔭 I’m actively seeking a new position that will allow me to bring value through my experience in Fullstack Development, while continuing to grow professionally.
-- 📖 I'm currently studying for **AZ-204: Microsoft Azure Developer Associate**
+- 🔭 I’m working as a backend developer at an award-winning global provider of foreign exchange and payment solutions.
+- 📖 I'm currently studying for **Coursera's IBM Generative AI Engineering Professional Certificate**
 - 👯 My areas of interest are **Web APIs, cloud, containerization, system design, and the Go programming language.**
 
 <h3 align="left">Connect with me:</h3>
